@@ -34,6 +34,6 @@ Cart where you can choose different items and quantites which are logged into an
 ![alt text](https://github.com/Stefunga/Paints-R-Us/blob/master/Cart.png)
 ## Customer info
 
-Brings up informatin on a customer. Billing information etc.
+Brings up information on a customer, Billing information etc.
 
 ![alt text](https://github.com/Stefunga/Paints-R-Us/blob/master/CustInfo.png)
