@@ -9,7 +9,7 @@ Group project written in Python. Works as system to submit orders, manage employ
 ![alt text](https://github.com/Stefunga/Paints-R-Us/blob/master/Search.png)
 ## Search
 ![alt text](https://github.com/Stefunga/Paints-R-Us/blob/master/IDLookup.png)
-## Info
+## Create customer
 ![alt text](https://github.com/Stefunga/Paints-R-Us/blob/master/Cust_Info.png)
 ## Cart
 ![alt text](https://github.com/Stefunga/Paints-R-Us/blob/master/Cart.png)
