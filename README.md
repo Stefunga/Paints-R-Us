@@ -2,7 +2,7 @@
 Group project written in Python. Works as system to submit orders, manage employees, and to search parts of the database.
 # What does it do
 ## Login
-Employee login page. Two levels of authentication, admin and employee.
+- Employee login page. Two levels of authentication, admin and employee.
 ![alt text](https://github.com/Stefunga/Paints-R-Us/blob/master/Login.png)
 ## Menu
 
